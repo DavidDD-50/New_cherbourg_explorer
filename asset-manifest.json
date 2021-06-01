@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/New_cherbourg_explorer/static/css/main.302221cc.chunk.css",
+    "main.js": "/New_cherbourg_explorer/static/js/main.5d4e73b1.chunk.js",
+    "main.js.map": "/New_cherbourg_explorer/static/js/main.5d4e73b1.chunk.js.map",
+    "runtime-main.js": "/New_cherbourg_explorer/static/js/runtime-main.a8f31ba5.js",
+    "runtime-main.js.map": "/New_cherbourg_explorer/static/js/runtime-main.a8f31ba5.js.map",
+    "static/js/2.f282d74c.chunk.js": "/New_cherbourg_explorer/static/js/2.f282d74c.chunk.js",
+    "static/js/2.f282d74c.chunk.js.map": "/New_cherbourg_explorer/static/js/2.f282d74c.chunk.js.map",
+    "index.html": "/New_cherbourg_explorer/index.html",
+    "static/css/main.302221cc.chunk.css.map": "/New_cherbourg_explorer/static/css/main.302221cc.chunk.css.map",
+    "static/js/2.f282d74c.chunk.js.LICENSE.txt": "/New_cherbourg_explorer/static/js/2.f282d74c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8f31ba5.js",
+    "static/js/2.f282d74c.chunk.js",
+    "static/css/main.302221cc.chunk.css",
+    "static/js/main.5d4e73b1.chunk.js"
+  ]
+}
